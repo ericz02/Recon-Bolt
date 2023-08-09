@@ -10,7 +10,7 @@ Unfortunately, this app needs your Riot username and password to function, but o
 
 ## Discord
 
-I've created a Discord server for this app! Feel free to [join the server](https://discord.gg/bwENMNRqNa) if you'd like to discuss it :)
+I've created a Discord server for this app! Feel free to [join the server] if you'd like to discuss it :)
 
 ## Download on the App Store
 
